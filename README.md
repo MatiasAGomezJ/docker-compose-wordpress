@@ -3,10 +3,13 @@
 En este trabajo levantaremos un servidor de MySQL y Wordpress utilizando docker-compose.
 
 Para ello primero necesitaremos crear una arhivo llamado `docker-compose.yml` con la siguiente información.
+
 ![](https://i.imgur.com/MgXahWN.png)
 
 Una vez creado, utilizaremos el siguiente comado, el cual descarga las imagenes necesarias para utilizar MySQL y Wordpress. Tambien se utiliza la opción `-d` que ejecuta los contenedores en segundo plano. (Primero esta descarmgando las imagenes necesarias)
+
 ![](https://i.imgur.com/FTjibd1.png)
+
 - 
 - 
 -
